@@ -14,6 +14,7 @@ function App() {
       <BrowserRouter>
         <QueryClientProvider client={new QueryClient()}>
           {routing}
+          asdfasdf
           <Map />
         </QueryClientProvider>
       </BrowserRouter>
